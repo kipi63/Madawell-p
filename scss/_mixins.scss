@@ -1,0 +1,20 @@
+@mixin for-min-768 {
+  @media (min-width: 768px) {
+    @content;
+  }
+}
+@mixin for-min-800 {
+  @media (min-width: 800px) {
+    @content;
+  }
+}
+@mixin for-min-992 {
+  @media (min-width: 992px) {
+    @content;
+  }
+}
+@mixin for-min-1200 {
+  @media (min-width: 1200px) {
+    @content;
+  }
+}

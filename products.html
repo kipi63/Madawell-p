@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Products</title>
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script type="module" defer src="js/pages/products.js"></script>
+  </head>
+  <body>
+    <!--navbar-->
+    <nav class="navbar page">
+      <div class="nav-center">
+        <!--links-->
+        <div>
+          <button class="toggle-nav">
+            <i class="fas fa-bars"></i>
+          </button>
+          <ul class="nav-links">
+            <li>
+              <a href="index.html" class="nav-link"> home </a>
+            </li>
+            <li>
+              <a href="products.html" class="nav-link"> products </a>
+            </li>
+            <li>
+              <a href="about.html" class="nav-link"> about </a>
+            </li>
+          </ul>
+        </div>
+        <!--logo-->
+        <div class="nav-logo black">Madewell</div>
+        <!--cart icon-->
+        <div class="toggle-container">
+          <button class="toggle-cart">
+            <i class="fas fa-shopping-cart"></i>
+          </button>
+          <span class="cart-count">1</span>
+        </div>
+      </div>
+    </nav>
+    <!-- main -->
+    <section class="page-main">
+      <div class="section-center">
+        <h3 class="page-main-title">Home / Products</h3>
+      </div>
+    </section>
+    <!-- sidebar -->
+    <div class="sidebar-overlay">
+      <aside class="sidebar">
+        <!-- close -->
+        <button class="sidebar-close">
+          <i class="fas fa-times"></i>
+        </button>
+        <!-- links -->
+        <ul class="sidebar-links">
+          <li>
+            <a href="index.html" class="sidebar-link">
+              <i class="fa-solid fa-house"></i>
+              home
+            </a>
+          </li>
+          <li>
+            <a href="products.html" class="sidebar-link">
+              <i class="fa-solid fa-couch"></i>
+              products
+            </a>
+          </li>
+          <li>
+            <a href="about.html" class="sidebar-link">
+              <i class="fa-solid fa-circle-info"></i>
+              about
+            </a>
+          </li>
+        </ul>
+      </aside>
+    </div>
+    <!-- cart -->
+    <div class="cart-overlay">
+      <aside class="cart">
+        <button class="cart-close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+        <header>
+          <h3 class="text-decorated">your bag</h3>
+        </header>
+        <!-- cart items -->
+        <div class="cart-items"></div>
+        <!-- footer -->
+        <footer>
+          <h3 class="cart-total text-decorated">total : $0</h3>
+          <button class="cart-checkout btn">checkout</button>
+        </footer>
+      </aside>
+    </div>
+
+    <!-- products -->
+    <section class="products">
+      <!-- filters -->
+      <div class="filters">
+        <div class="filters-container">
+          <!-- search -->
+          <form class="input-form">
+            <input type="text" class="search-input" placeholder="search..." />
+          </form>
+          <!-- categories -->
+          <h4>Types of clothes</h4>
+          <article class="companies types">
+            <!-- <button class="company-btn type-btn">all</button>
+            <button class="company-btn type-btn">blouse</button> -->
+          </article>
+          <!-- price -->
+          <h4>Price</h4>
+          <form class="price-form">
+            <input
+              type="range"
+              class="price-filter"
+              min="0"
+              value="50"
+              max="100"
+            />
+          </form>
+          <p class="price-value"></p>
+        </div>
+      </div>
+      <!-- products -->
+      <div class="products-container"></div>
+    </section>
+    <!-- page loading -->
+    <div class="page-loading">
+      <h2>Loading...</h2>
+    </div>
+  </body>
+</html>

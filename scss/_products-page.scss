@@ -1,0 +1,94 @@
+.products {
+  width: 90vw;
+  display: grid;
+  grid-gap: 1rem;
+  margin: 4rem auto;
+  max-width: var(--max-width);
+  position: relative;
+  @include for-min-768 {
+    grid-template-columns: 200px 1fr;
+  }
+  & .products-container {
+    @include for-min-992 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+    @include for-min-1200 {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    .product-img {
+      @include for-min-992 {
+        height: 10rem;
+      }
+    }
+    .product-name {
+      @include for-min-992 {
+        font-size: 0.85rem;
+      }
+    }
+    .product-price {
+      @include for-min-992 {
+        font-size: 0.85rem;
+      }
+    }
+  }
+  .filters {
+    & h4 {
+      font-weight: 500;
+      margin: 1.5rem 0 0.5rem;
+    }
+    .filters-container {
+      position: sticky;
+      top: 1rem;
+      .input-form {
+        .search-input {
+          padding: 0.5rem;
+          background: var(--clr-grey-10);
+          border-radius: var(--radius);
+          border-color: transparent;
+          letter-spacing: var(--spacing);
+          &::placeholder {
+            text-transform: capitalize;
+          }
+        }
+      }
+      .companies {
+        @include for-min-768 {
+          position: sticky;
+          top: 1rem;
+        }
+        .company-btn {
+          display: block;
+          margin: 0.25em 0;
+          padding: 0.25rem;
+          text-transform: capitalize;
+          background: transparent;
+          border-color: transparent;
+          letter-spacing: var(--spacing);
+          color: var(--clr-grey-5);
+          cursor: pointer;
+          transition: var(--transition);
+          &:hover {
+            color: var(--clr-grey-3);
+          }
+        }
+      }
+      .price-form {
+        .price-filter {
+          background: var(--clr-grey-5) !important;
+          color: var(--clr-grey-5);
+        }
+      }
+    }
+  }
+}
+
+.filter-error {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  margin-top: 4rem;
+}

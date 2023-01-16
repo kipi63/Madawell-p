@@ -1,0 +1,376 @@
+[
+  {
+    "id": "1",
+    "fields": {
+      "company": "janes",
+      "featured": true,
+      "price": 999,
+      "name": "black blouse",
+      "image": "../img/content/blouse/blouse_1.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "2",
+    "fields": {
+      "company": "janes",
+      "featured": false,
+      "price": 1299,
+      "name": "blouse",
+      "image": "../img/content/blouse/blouse_2.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "3",
+    "fields": {
+      "company": "janes",
+      "featured": true,
+      "price": 1499,
+      "name": "blouse",
+      "image": "../img/content/blouse/blouse_3.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "4",
+    "fields": {
+      "company": "janes",
+      "featured": false,
+      "price": 3199,
+      "name": "blouse",
+      "image": "../img/content/blouse/blouse_4.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "5",
+    "fields": {
+      "company": "janes",
+      "featured": false,
+      "price": 1799,
+      "name": "blouse",
+      "image": "../img/content/blouse/blouse_5.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "6",
+    "fields": {
+      "company": "sowin",
+      "featured": false,
+      "price": 1466,
+      "name": "jackets",
+      "image": "../img/content/jackets/jacket_1.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "7",
+    "fields": {
+      "company": "sowin",
+      "price": 1166,
+      "name": "jackets",
+      "featured": true,
+      "image": "../img/content/jackets/jacket_2.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "8",
+    "fields": {
+      "company": "sowin",
+      "price": 1377,
+      "name": "jackets",
+      "featured": false,
+      "image": "../img/content/jackets/jacket_3.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "9",
+    "fields": {
+      "company": "sowin",
+      "featured": false,
+      "price": 1944,
+      "name": "jackets",
+      "image": "../img/content/jackets/jacket_4.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "10",
+    "fields": {
+      "company": "sowin",
+      "featured": false,
+      "price": 957,
+      "name": "jackets",
+      "image": "../img/content/jackets/jacket_5.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "11",
+    "fields": {
+      "company": "sowin",
+      "price": 421,
+      "name": "jackets",
+      "featured": true,
+      "image": "../img/content/jackets/jacket_6.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "12",
+    "fields": {
+      "company": "sowin",
+      "featured": false,
+      "price": 593,
+      "name": "jackets",
+      "image": "../img/content/jackets/jacket_7.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "13",
+    "fields": {
+      "company": "kenza",
+      "featured": false,
+      "price": 318,
+      "name": "knitwear",
+      "image": "../img/content/knitwear/knitwear_1.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "14",
+    "fields": {
+      "company": "kenza",
+      "featured": false,
+      "price": 1587,
+      "name": "knitwear",
+      "image": "../img/content/knitwear/knitwear_2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "15",
+    "fields": {
+      "company": "kenza",
+      "price": 1944,
+      "name": "knitwear",
+      "featured": true,
+      "image": "../img/content/knitwear/knitwear_3.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "16",
+    "fields": {
+      "company": "kenza",
+      "featured": false,
+      "price": 923,
+      "name": "knitwear",
+      "image": "../img/content/knitwear/knitwear_4.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "17",
+    "fields": {
+      "company": "kenza",
+      "featured": false,
+      "price": 1044,
+      "name": "knitwear",
+      "image": "../img/content/knitwear/knitwear_5.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "18",
+    "fields": {
+      "company": "kenza",
+      "featured": false,
+      "price": 1854,
+      "name": "knitwear",
+      "image": "../img/content/knitwear/knitwear_6.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "19",
+    "fields": {
+      "company": "kenza",
+      "featured": false,
+      "price": 1923,
+      "name": "knitwear",
+      "image": "../img/content/knitwear/knitwear_7.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "20",
+    "fields": {
+      "company": "sevpan",
+      "price": 1822,
+      "featured": false,
+      "name": "pants",
+      "image": "../img/content/pants/pants_1.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "21",
+    "fields": {
+      "company": "sevpan",
+      "featured": false,
+      "price": 1944,
+      "name": "pants",
+      "image": "../img/content/pants/pants_2.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "22",
+    "fields": {
+      "company": "sevpan",
+      "featured": false,
+      "price": 1922,
+      "name": "pants",
+      "image": "../img/content/pants/pants_3.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "23",
+    "fields": {
+      "company": "sevpan",
+      "price": 1944,
+      "name": "pants",
+      "featured": false,
+      "image": "../img/content/pants/pants_4.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "24",
+    "fields": {
+      "company": "sevpan",
+      "featured": false,
+      "price": 412,
+      "name": "pants",
+      "image": "../img/content/pants/pants_5.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "25",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 1292,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_1.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "26",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 799,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_2.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "27",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 1799,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_3.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "28",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 7999,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_4.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "29",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 9122,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_5.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "30",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 7099,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_6.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "31",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 799,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_7.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "32",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 5999,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_8.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "33",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 8999,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_9.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  },
+  {
+    "id": "34",
+    "fields": {
+      "company": "polo",
+      "featured": false,
+      "price": 5699,
+      "name": "shirt",
+      "image": "../img/content/shirt/shirt_10.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam provident vel eos dolorum sapiente rerum voluptatum expedita aut, facere consectetur. Eligendi ad saepe esse corrupti nobis cupiditate at dolorum, doloribus eum dignissimos dolore, placeat, perferendis sunt soluta assumenda. Aperiam autem molestias labore enim rem temporibus! Minima veniam atque hic accusamus."
+    }
+  }
+]

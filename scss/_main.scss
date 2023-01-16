@@ -1,0 +1,48 @@
+.main {
+  min-height: 100vh;
+  margin-top: -6rem;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/bg/bg_1.jpg") center/cover;
+  display: grid;
+  place-items: center;
+  color: var(--clr-white);
+  &-container {
+    width: 90vw;
+    max-width: var(--max-width);
+    & h1 {
+      font-weight: 700;
+      @include for-min-992 {
+        font-size: 5.25rem;
+        letter-spacing: 5px;
+      }
+    }
+    & h3 {
+      text-transform: none;
+      font-size: 1.5rem;
+      @include for-min-800 {
+        font-size: 1.5rem;
+        margin: 1rem 0;
+      }
+      @include for-min-992 {
+        font-size: 2.75rem;
+        margin: 1.5rem 0;
+      }
+    }
+    .main-btn {
+      color: var(--clr-white);
+      background: transparent;
+      border: 1px solid var(--clr-white);
+      padding: 0.5rem 0.75rem;
+      display: inline-block;
+      margin-top: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: var(--spacing);
+      border-radius: var(--radius);
+      transition: var(--transition);
+      &:hover {
+        background: var(--clr-white);
+        color: var(--clr-primary-5);
+      }
+    }
+  }
+}

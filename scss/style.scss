@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import "mixins";
+
+/*
+=============== 
+Variables
+===============
+*/
+
+@import "colors-root";
+/*
+=============== 
+Global Styles
+===============
+*/
+@import "global-styles";
+//
+/*
+=============== 
+Navbar
+===============
+*/
+//
+
+@import "navbar";
+/*
+=============== 
+main
+===============
+*/
+@import "main";
+
+/*
+=============== 
+Sidebar
+===============
+*/
+@import "sidebar-overlay";
+/*
+=============== 
+Cart
+===============
+*/
+@import "cart-overlay";
+
+/*
+=============== 
+Title
+===============
+*/
+
+@import "title";
+/*
+=============== 
+featured
+===============
+*/
+@import "featured";
+
+/*
+=============== 
+product
+===============
+*/
+@import "product-styles";
+
+/*
+
+=============== 
+About Page
+===============
+*/
+@import "about-text";
+
+/*
+=============== 
+Products Page
+===============
+*/
+@import "products-page";

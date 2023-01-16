@@ -1,0 +1,24 @@
+.featured {
+  .featured-center {
+    margin: 3rem auto 2rem auto;
+    display: grid;
+    gap: 1rem;
+    min-height: 6rem;
+    position: relative;
+    @include for-min-992 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+    @include for-min-1200 {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+}
+
+.featured .btn {
+  display: block;
+  width: 11rem;
+  margin: 0 auto;
+  text-align: center;
+}

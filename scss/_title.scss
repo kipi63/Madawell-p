@@ -1,0 +1,11 @@
+.title h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+}
+.title span {
+  color: var(--clr-primary-5);
+  font-size: 0.85em;
+  margin-right: 1rem;
+}

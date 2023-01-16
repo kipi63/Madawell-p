@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Madawell</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/all.min.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-center">
+        <div class="nav-items">
+          <button class="toggle-nav" id="toggle-nav">
+            <i class="fa-solid fa-bars"></i>
+          </button>
+          <ul class="nav-links">
+            <li>
+              <a href="index.html" class="nav-link">Home</a>
+            </li>
+            <li>
+              <a href="products.html" class="nav-link">Products</a>
+            </li>
+            <li>
+              <a href="about.html" class="nav-link">about</a>
+            </li>
+          </ul>
+        </div>
+        <div class="nav-logo">Madewell</div>
+        <div class="toggle-container">
+          <button class="toggle-cart">
+            <i class="fa-sharp fa-solid fa-cart-shopping"></i>
+          </button>
+          <span class="cart-count"> 1 </span>
+        </div>
+      </div>
+    </nav>
+    <section class="main">
+      <div class="main-container">
+        <h1 class="text-decorated">rest, relax, unwind</h1>
+        <h3>Embrace your choices - we do</h3>
+        <a href="products.html" class="main-btn"> show now</a>
+      </div>
+    </section>
+    <div class="sidebar-overlay">
+      <aside class="sidebar">
+        <button class="sidebar-close">
+          <i class="fas fa-times"></i>
+        </button>
+        <ul class="sidebar-links">
+          <li>
+            <a href="index.html" class="sidebar-link">
+              <i class="fa-solid fa-house"></i>
+              Home
+            </a>
+          </li>
+          <li>
+            <a href="products.html" class="sidebar-link">
+              <i class="fa-solid fa-couch"></i>
+              Products
+            </a>
+          </li>
+          <li>
+            <a href="about.html" class="sidebar-link">
+              <i class="fa-solid fa-circle-info"></i>
+              About
+            </a>
+          </li>
+        </ul>
+      </aside>
+    </div>
+
+    <div class="cart-overlay">
+      <aside class="cart">
+        <button class="cart-close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+        <header>
+          <h3 class="text-decorated">your bag</h3>
+        </header>
+        <!--Cart items dinamic js -->
+        <div class="cart-items"></div>
+        <footer>
+          <h3 class="cart-total text-decorated">total : $0</h3>
+          <button class="cart-checkout btn">checkout</button>
+        </footer>
+      </aside>
+    </div>
+    <!--featured products-->
+    <section class="section featured">
+      <div class="title">
+        <h2><span>/</span> featured</h2>
+      </div>
+      <div class="featured-center section-center">
+        <h2 class="section-loading">loading...</h2>
+      </div>
+      <a href="products.html" class="btn"> all products </a>
+    </section>
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>
